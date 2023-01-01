@@ -1,0 +1,6 @@
+{
+    "success.signin": "เข้าสู่ระบบสำเร็จ",
+    "error.filetype.img": "ไฟล์รูปแบบ .jpg .jpeg .png เท่านั้น!",
+    "ERR_DATA_NOT_FOUND": "ไม่มีข้อมูล"
+
+}

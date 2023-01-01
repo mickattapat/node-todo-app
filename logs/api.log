@@ -1,0 +1,4 @@
+ [2023-01-01T22:53:54.293]:[INFO] api ::1 null POST /api/v1/players - create success 
+ [2023-01-01T22:55:03.812]:[INFO] api ::1 null POST /api/v1/players - create success 
+ [2023-01-01T22:57:50.850]:[INFO] api ::1 null GET /api/v1/players - show player success 
+ [2023-01-01T22:58:57.349]:[INFO] api ::1 null GET /api/v1/players - show player success 

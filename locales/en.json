@@ -1,0 +1,5 @@
+{
+    "success.signin": "signin successfully",
+    "error.filetype.img":"Only .jpg .jpeg .png format allowed!",
+    "ERR_DATA_NOT_FOUND":"Data not found !"
+}
